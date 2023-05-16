@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+textarea {
+    margin-bottom: 3rem;
+    padding: 20px;
+}
+
+button {
+    padding: 10px;
+}
